@@ -1,2 +1,2 @@
 # PIC_7segment_0-99
- PIC kullanarak 7 segmentte 0-99 arası saydırma
+ PIC16F877A mikrodenetleyicisini kullanarak 2 digit 7 segment displayde 0-99 arası saydırma
